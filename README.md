@@ -17,4 +17,4 @@ Gymnasium is a great API for creating environments to train AIs. In this case, I
 
 There are several parameters for the AI, the first one is:  
 
-\-**state_size**: this parameter represents the observation space, a 8-dimensional vector: the coordinates of the lander in x & y, linear velocities in x & y, angle, angular velocity, and two booleans that represent wether each leg is in contact with the ground or not.
+- **state_size**: this parameter represents the observation space, a 8-dimensional vector: the coordinates of the lander in x & y, linear velocities in x & y, angle, angular velocity, and two booleans that represent wether each leg is in contact with the ground or not.
