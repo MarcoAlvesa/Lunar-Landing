@@ -1,6 +1,14 @@
 # Lunar-Landing
-Deep Q-Learning for Lunar Landing (gymnasium)
+Deep Q-Learning for Lunar Landing (gymnasium)  
 
+
+
+
+https://github.com/user-attachments/assets/e2f75906-f4b5-4f8f-8fc4-4791ad740115
+
+
+
+  
 Gymnasium is a great API for creating environments to train AIs. In this case, I used the 'LunarLander-v3' environment to apply Q-Learning techniques.
 
 ### Libraries:
